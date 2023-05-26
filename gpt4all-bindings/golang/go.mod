@@ -1,4 +1,4 @@
-module github.com/nomic-ai/gpt4all/gpt4all-bindings/golang
+module github.com/congcongxingzhe-gmail-com/gpt4all/gpt4all-bindings/golang
 
 go 1.19
 
